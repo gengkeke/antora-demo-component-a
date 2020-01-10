@@ -1,5 +1,5 @@
 * xref:index.adoc[概览]
 * xref:Datasource.adoc[数据源管理]
 * API生成与注册
-** xref:Makeup_Register/makeApi.adoc[API生成]
+** xref:Makeup_Register/makeAPI.adoc[API生成]
 ** xref:Makeup_Register/registerAPI.adoc[API注册]
