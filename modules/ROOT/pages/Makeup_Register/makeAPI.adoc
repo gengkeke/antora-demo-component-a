@@ -1,0 +1,7 @@
+= API生成
+// Settings
+:idprefix:
+:idseparator: -
+:table-caption!:
+
+API对外输出服务，生成API是非常关键的一步，目前数据API支持两种API生成方式：模板向导模式、自定义SQL模式。

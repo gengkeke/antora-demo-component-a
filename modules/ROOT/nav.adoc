@@ -1,8 +1,5 @@
-* xref:inline-text-formatting.adoc[Basic Inline Text Formatting]
-* xref:special-characters.adoc[Special Characters & Symbols]
-* xref:admonition.adoc[Admonition]
-* xref:sidebar.adoc[Sidebar]
-* xref:ui-macros.adoc[UI Macros]
-* Lists
-** xref:lists/ordered-list.adoc[Ordered List]
-** xref:lists/unordered-list.adoc[Unordered List]
+* xref:index.adoc[概览]
+* xref:Datasource.adoc[数据源管理]
+* API生成与注册
+** xref:Makeup_Register/makeApi.adoc[API生成]
+** xref:Makeup_Register/registerAPI.adoc[API注册]

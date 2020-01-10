@@ -7,6 +7,7 @@
 :url-opendevise: https://opendevise.com
 
 Component A is an example of a documentation component.
+Component A is an example of a documentation component.
 It is used by the Antora Demo site.
 The playbook and instructions for the Demo site are located in the {url-site-readme}[Demo site playbook project].
 
